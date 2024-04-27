@@ -3,7 +3,10 @@ document.getElementById("titulo").style.color="orange"
 
 
     // en proceso
-clikea(){
-    const roojo= document.getElementById("rojo").style.color="brown"
-    onclick
+function cambiocolor(){
+    document.body.style.backgroundColor="pink"
+}
+
+function cambiocolor2(){
+    document.getElementById("rojo").style.color="brown"
 }
